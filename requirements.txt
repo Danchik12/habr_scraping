@@ -1,3 +1,4 @@
 pandas==1.2.4
 numpy==1.20.3
 fake_useragent==0.1.11
+bs4==4.9.3
