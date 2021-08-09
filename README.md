@@ -7,7 +7,7 @@ I used the requests library built in Python to send the request and receive the 
 
 Run parser.py and wait
 
-$python parser.py
+`python parser.py`
 ***
 Result:
 
@@ -24,7 +24,7 @@ Result:
 
 Запустите parser.py и ждите
 
-$python parser.py
+`python parser.py`
 ***
 Результат:
 
