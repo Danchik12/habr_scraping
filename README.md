@@ -2,6 +2,8 @@
 # English! #
 The script collects articles from Habr and saves them in the data.csv file.
 Run parser.py and wait
+
+$python parser.py
 ***
 Result:
 
@@ -13,6 +15,8 @@ Result:
 # Русский! #
 Скрипт собирате статьи из Habr и сохраняет в файле data.csv.
 Запустите parser.py и ждите
+
+$python parser.py
 ***
 Результат:
 
