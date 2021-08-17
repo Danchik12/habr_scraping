@@ -1519,3 +1519,60 @@ Zynq 7000. Обмен информацией между PS и PL,https://habr.co
 FOSS News №83 – дайджест материалов о свободном и открытом ПО за 9—15 августа 2021 года,https://habr.com/ru/post/573056/
 Как мы создали собственный оркестратор запусков тестов и облегчили жизнь коллегам,https://habr.com/ru/company/indriver/blog/571948/
 "iOS in-app purchases, часть 3: серверная валидация покупок",https://habr.com/ru/company/adapty/blog/572370/
+Методология и практика нагрузочного тестирования. Опыт Miro,https://habr.com/ru/company/miro/blog/573338/
+Микропроцессор Texas Instruments TMX 1795 — первый в истории?,https://habr.com/ru/company/otus/blog/573330/
+Взлом госуслуг: мифы и реальность,https://habr.com/ru/post/569370/
+5G оборудование. Мысли вслух в нескольких частях. Ч.1,https://habr.com/ru/post/573326/
+Как автоматизировать безопасный декодинг массивов в Swift с @propertyWrapper,https://habr.com/ru/company/ozontech/blog/571006/
+Code Completion. Часть 2: зачем тут машинное обучение?,https://habr.com/ru/company/JetBrains/blog/572864/
+"Аналоговые камеры наблюдения: стоит ли менять, если и так все работает?",https://habr.com/ru/post/573312/
+PostgreSQL Antipatterns: «слишком много золота»,https://habr.com/ru/company/tensor/blog/573214/
+"«Страх, потеря фокуса и усталость»: почему технологический контент-маркетинг — это испытание на выносливость",https://habr.com/ru/company/spbifmo/blog/572436/
+Особенности прототипирования игр,https://habr.com/ru/company/mailru/blog/573298/
+Одна сеть — один вендор? Есть ли право на жизнь у мультивендорных решений?,https://habr.com/ru/company/zyxel/blog/573266/
+Вектор-инструкция: о советском происхождении VLIW,https://habr.com/ru/post/573306/
+Мастера облачного криптомайнинга: тактики группы TeamTNT,https://habr.com/ru/company/trendmicro/blog/573304/
+Книга «Делай как в Google. Разработка программного обеспечения»,https://habr.com/ru/company/piter/blog/573138/
+Генерация Excel файлов как zip-архива,https://habr.com/ru/post/572684/
+Неожиданные причины торможения программ и систем,https://habr.com/ru/post/571500/
+Шпаргалка для разработчика: создаём безопасное веб-приложение,https://habr.com/ru/company/arcadia/blog/572204/
+Из телохранителя в программисты: как сменить табельный пистолет на ноутбук,https://habr.com/ru/company/domclick/blog/572624/
+PHP – компилируемый язык?! PVS-Studio ищет ошибки в PeachPie,https://habr.com/ru/company/pvs-studio/blog/573296/
+Должен ли работодатель платить за обучение и выделять на него рабочие часы: мнения и практики,https://habr.com/ru/company/netologyru/blog/573248/
+Как я перестал «падать» и “тормозить” и начал жить?,https://habr.com/ru/post/573122/
+Матерь запутанных созвездий — астрономия средневекового мусульманского мира,https://habr.com/ru/post/573284/
+AI в HR и как с этим жить,https://habr.com/ru/company/talenttech/blog/573282/
+Критерии качества вёрстки 2021,https://habr.com/ru/company/htmlacademy/blog/566244/
+Как VR и AR изменят нашу жизнь,https://habr.com/ru/company/lanit/blog/571922/
+Персонализируйте свою Visual Studio 2022,https://habr.com/ru/company/microsoft/blog/573232/
+Гость из другого мира: обзор рабочей станции HP 9000 712/60 под управлением HP-UX,https://habr.com/ru/company/selectel/blog/573146/
+V8 в бэкенде С++: от одного JS-скрипта до фреймворка онлайн-вычислений,https://habr.com/ru/company/yandex/blog/572880/
+Структура + предположения > ML? Моделирование продаж байесовскими методами,https://habr.com/ru/company/epam_systems/blog/573098/
+Мобильное вещание: советы по работе на примере Larix Broadcaster,https://habr.com/ru/post/572082/
+О чем вас не предупреждают при переходе в продакт-менеджеры,https://habr.com/ru/company/oleg-bunin/blog/573142/
+Люди python-сообщества: кто приедет на PyCon Russia,https://habr.com/ru/company/it_people/blog/571644/
+Применение безголового браузера для нагрузочных тестов WebRTC,https://habr.com/ru/company/flashphoner/blog/570248/
+Стена непонимания между стартапами и наукой: как преодолеть?,https://habr.com/ru/post/573276/
+«Состояние повышенной вздрюченности» сотрудников: проблематика и последствия,https://habr.com/ru/post/573270/
+"Протокол безопасности транспортного уровня (TLS), версия 1.2 (RFC 5246)",https://habr.com/ru/post/573268/
+WireGuard заработал в режиме ядра WindowsNT,https://habr.com/ru/company/globalsign/blog/573264/
+IDE для Postgresql,https://habr.com/ru/post/573262/
+Webix File Manager. Достойный web-аналог десктопного приложения,https://habr.com/ru/post/573258/
+JDK Stream реверс-инженеринг (реконструкция),https://habr.com/ru/post/573252/
+Минкульт и ФАС ответили на запросы о ситуации с удалением с Ютюба советских мультиков,https://habr.com/ru/post/573114/
+"3-нм техпроцесс все ближе к народу: Intel, Apple и TSMC вовсю готовятся к новому витку прогресса",https://habr.com/ru/company/selectel/blog/571896/
+Сохраняем настройки и лог файл во внутренней памяти микроконтроллера,https://habr.com/ru/company/embox/blog/573244/
+Тестирование контракта потребителя сервиса — часть 2,https://habr.com/ru/company/otus/blog/573174/
+Валерий Брюсов — предсказатель «Скайнета»,https://habr.com/ru/company/timeweb/blog/573230/
+Трюки Pandas от RealPython,https://habr.com/ru/company/skillfactory/blog/573154/
+Сотрудники Xsolla: CEO развивает и поддерживает культуру страха,https://habr.com/ru/post/573226/
+"История Никиты Мостового: QBasic, HeadHunter, HolyJS, Лондон",https://habr.com/ru/company/headzio/blog/573188/
+Что наша жизнь? Игра,https://habr.com/ru/post/573210/
+Альбирео,https://habr.com/ru/post/573192/
+PHP Дайджест № 209 (1 – 16 августа 2021),https://habr.com/ru/post/573184/
+Ракета-носитель сверхлегкого класса,https://habr.com/ru/post/573182/
+Учет времени сделки на каждой стадии для подсчета KPI,https://habr.com/ru/post/573178/
+Security Week 33: технические особенности слежки за пользователями,https://habr.com/ru/company/kaspersky/blog/573170/
+Как мы JIRA и MS Project подружили,https://habr.com/ru/company/rshb/blog/573034/
+Хайп-проект или будущее интернета? Кому и зачем нужна метавселенная Цукерберга,https://habr.com/ru/company/gms/blog/573168/
+Spring Cloud Contract. Что такое контрактное тестирование и с чем его едят,https://habr.com/ru/company/testit-tms/blog/570544/
