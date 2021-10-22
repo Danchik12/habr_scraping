@@ -4003,3 +4003,68 @@ ZFS таинственным образом поедает мой CPU,https://ha
 "Психология, литература и материнство — чем еще занимаются сотрудники Техцентра?",https://habr.com/ru/company/dbtc/blog/584082/
 Адаптация Qt-приложений под мониторы высокой чёткости. Часть 1,https://habr.com/ru/post/582180/
 MoscowJS 50 — как это было,https://habr.com/ru/company/moscowjs/blog/582012/
+Выпуск Rust 1.56.0 и 2021 редакция,https://habr.com/ru/post/585052/
+"«Это что! А вот у меня на собесе было…», или Байки с технических интервью",https://habr.com/ru/company/jugru/blog/585042/
+Игра по правилам Event loop в Node.js,https://habr.com/ru/company/lineate/blog/585050/
+Боремся за тестируемость: избавляемся от антипаттернов с помощью диалога,https://habr.com/ru/company/otus/blog/585046/
+Сохранение пакетов Perl через local,https://habr.com/ru/post/585038/
+"Топ-5 слов с немецким происхождением, которые широко используются в английском",https://habr.com/ru/company/englishdom/blog/584946/
+Работа с проблемными *.dwg-файлами в среде nanoCAD версия 2.0,https://habr.com/ru/company/nanosoft/blog/580180/
+Реализация кластеризации методом k-средних на Python (с визуализацией),https://habr.com/ru/post/585034/
+OWASP Top Ten и Software Composition Analysis (SCA),https://habr.com/ru/company/pvs-studio/blog/585030/
+"Сдохни, кодовое слово, сдохни",https://habr.com/ru/post/585024/
+Пять распространенных проблем кандидатов (по результатам 600 технических собеседований),https://habr.com/ru/company/geekfactor/blog/585022/
+Различные виды тетрисов и где они обитают,https://habr.com/ru/company/timeweb/blog/557376/
+Жёсткий матрас: Ретро видеокарты Matrox Millenium G550 и P650 в играх,https://habr.com/ru/post/583104/
+Как мы Neo4j к Helidon прикручивали,https://habr.com/ru/post/584796/
+Зарплаты в Python за последние 10 лет,https://habr.com/ru/company/skillfactory/blog/584810/
+О пушках Гаусса и не только,https://habr.com/ru/company/ruvds/blog/583914/
+Зачем мониторить трафик локальной сети?,https://habr.com/ru/company/dsol/blog/585014/
+Идём по графику: предсказанный 50 лет назад коллапс человечества пока никто не отменил,https://habr.com/ru/post/585012/
+Германия: руководство пользователя,https://habr.com/ru/post/581512/
+Моя жена умирала от рака мозга. Мой босс в Amazon сказал мне вернуться к работе или уволиться,https://habr.com/ru/post/585010/
+Идеальный код: битва при Sonar,https://habr.com/ru/company/parallels/blog/584998/
+ТОП-3 ИБ-событий недели по версии Jet CSIRT,https://habr.com/ru/company/jetinfosystems/blog/585002/
+Цифровизация в металлургии: ЕВРАЗ проводит хакатон по Data Science,https://habr.com/ru/company/evraz/blog/584902/
+Доступность в Angular c помощью CDK A11y на реальных кейсах с FocusTrap и FocusMonitor,https://habr.com/ru/company/europlan/blog/578856/
+Карта процессов верхнего уровня компании и матрица RACI c помощью drawio и google sheets,https://habr.com/ru/post/584984/
+12 шагов героя-продакта. Как становятся продактом и к чему быть готовым на этом пути,https://habr.com/ru/company/sberbank/blog/584982/
+Оружие для Луны: из чего астронавты собирались стрелять в космонавтов,https://habr.com/ru/company/first/blog/582392/
+Отправка и прием данных неизвестной длины по UART через DMA в freeRTOS на STM32 с использованием LL,https://habr.com/ru/post/584866/
+История Saudi Aramco. Так пишется история,https://habr.com/ru/post/584166/
+Компания Facebook заставила разработчика удалить расширение для чистки новостной ленты под угрозой суда,https://habr.com/ru/company/productivity_inside/blog/584972/
+Собеседование на позицию Data Engineer в X5: чего ждать и как лучше подготовиться (часть 2),https://habr.com/ru/company/X5Group/blog/584966/
+Вот как Амазон измеряет свою эффективность,https://habr.com/ru/post/584918/
+Работа с ML Kit в Android: как распознавать штрихкоды,https://habr.com/ru/company/simbirsoft/blog/584888/
+Data Science с нуля. Большая подборка курсов,https://habr.com/ru/post/584964/
+Как стать web-разработчиком на Python за полгода: конкретный план действий,https://habr.com/ru/company/pvs-studio/blog/584962/
+Kubernetes Nginx Ingress: Перенаправление трафика с использованием аннотаций,https://habr.com/ru/post/584958/
+Можно ли найти работу в IT после 40 лет,https://habr.com/ru/company/yandex_praktikum/blog/584806/
+"Что движет человечеством: как люди построили цивилизацию, чтобы освободиться от естественного отбора",https://habr.com/ru/company/ruvds/blog/580956/
+Локализация и мультиязычность во Flutter,https://habr.com/ru/company/alconost/blog/584942/
+Acronis #CyberFit Summit — ключевые спикеры,https://habr.com/ru/company/acronis/blog/584938/
+A-B тесты в рассылках (и не только): когда зафиксированные улучшения ведут к ухудшению,https://habr.com/ru/company/superjob/blog/584936/
+Движок VSO: Под капотом нашего редактора,https://habr.com/ru/company/playrix/blog/584804/
+Экстренная миграция «РУСХИМСЕТЬ»,https://habr.com/ru/company/cloud_mts/blog/584880/
+Админка на Google Sheets — быстрый запуск и минимум ресурсов,https://habr.com/ru/company/skyeng/blog/584472/
+Рейтинг лучших электромобилей 2021 года по версии издания «Популярная Механика»,https://habr.com/ru/company/itsoft/blog/584932/
+Одна задача с собеса,https://habr.com/ru/post/584924/
+Определение App flavors для приложений Flutter,https://habr.com/ru/company/talenttech/blog/584788/
+Практика в Снежинске,https://habr.com/ru/post/584914/
+Docker: по ту сторону Hello World,https://habr.com/ru/post/584820/
+Улучшения в эмуляторе Dolphin,https://habr.com/ru/post/581406/
+Детектив данных,https://habr.com/ru/post/584904/
+"Мой код понятен, но это не точно",https://habr.com/ru/company/piter/blog/584606/
+React: разрабатываем хук для загрузки дополнительных данных,https://habr.com/ru/company/timeweb/blog/584862/
+"Олимпиады, стажировки и преподавание. Интервью с Егором Суворовым",https://habr.com/ru/company/JetBrains-education/blog/584822/
+Генерация признаков из временных рядов,https://habr.com/ru/post/584896/
+"Как обновить 3,5 тыс. криптошлюзов «Континент» и не сойти с ума – грабли и способы обхода",https://habr.com/ru/company/solarsecurity/blog/584816/
+Полярная звезда,https://habr.com/ru/post/584882/
+Самодельный стратостат. Часть 3,https://habr.com/ru/post/584398/
+Внутри русского процессора Байкал М,https://habr.com/ru/post/584868/
+XP-PEN Artist 22E Pro — запоздалая рецензия на графический дисплей,https://habr.com/ru/post/584856/
+История управления торговлей государством,https://habr.com/ru/company/timeweb/blog/584854/
+Физик и ролики,https://habr.com/ru/post/584848/
+Уроки по SDL 2: Урок 15 Многопоточность и Тиллинг,https://habr.com/ru/post/584846/
+Особенности потребления аудиоконтента онлайн (опыт аудиосервиса СберЗвук),https://habr.com/ru/post/584840/
+25 ноября в Москве Видео+Конференция 2021,https://habr.com/ru/company/trueconf/blog/584632/
