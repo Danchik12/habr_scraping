@@ -2,6 +2,7 @@
 # English! #
 The script collects articles from Habr and saves them in the data.csv file.
 I used the requests library built in Python to send the request and receive the response.
+Python 3.9
 * [documentation requests](https://2.python-requests.org/en/master/)
 * [documentation BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
@@ -19,6 +20,7 @@ Result:
 # Русский! #
 Скрипт собирате статьи из Habr и сохраняет в файле data.csv.
 Для отправки запроса и получения ответа я использовал библиотеку requests,встроенную в Python.
+Python 3.9
 * [документация requests](https://2.python-requests.org/en/master/)
 * [документация BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
